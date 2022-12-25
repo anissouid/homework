@@ -11,6 +11,7 @@ import org.mapstruct.Mapping;
 import org.mapstruct.Named;
 import org.springframework.stereotype.Service;
 
+//TODO use mapstruc (framework for mapping object)
 /**
  * Mapper for the entity {@link User} and its DTO called {@link UserDTO}.
  *

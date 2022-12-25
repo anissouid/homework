@@ -15,6 +15,7 @@ import javax.validation.constraints.Size;
 import org.apache.commons.lang3.StringUtils;
 import org.hibernate.annotations.BatchSize;
 
+//TODO use lombok
 /**
  * A user.
  */
